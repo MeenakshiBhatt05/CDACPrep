@@ -5,7 +5,7 @@ int main()
     float com = 300;
     int bs = 2500;
     printf("enter the total sales::");
-    scanf("%f", &ts);
+    scanf("%f %f", &ts, &ts);
     if (ts > 5000)
     {
         com = 300;

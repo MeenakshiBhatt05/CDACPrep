@@ -2,7 +2,7 @@
 int main()
 {
     float ts, gs;
-    float com = 300;
+    float com = 0;
     int bs = 2500;
     printf("enter the total sales::");
     scanf("%f %f", &ts, &ts);

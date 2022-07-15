@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main()
 {
-    int a = 0, b = 0;
-    switch ((int)4.5)
+    int a = 15, b = 0;
+    switch (a)
     {
     case 0:
         printf("zero\t");

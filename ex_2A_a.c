@@ -94,14 +94,14 @@ int main()
     return 0;
 }*/
 
-/*#include <stdio.h>
-int main()
-{
-    int x = 15;
-    printf("%d%4d%4d,%4d\n", x, x != 15, x = 20, x < 20);
+// #include <stdio.h>
+// int main()
+// {
+//     int x = 15;
+//     printf("%d%4d%4d\n", x != 15, x = 20, x < 20);
 
-    return 0;
-}*/
+//     return 0;
+// }
 
 // find out error
 /*#include <stdio.h>
@@ -147,16 +147,16 @@ int main()
         return 0;
 }*/
 
-/*#include <stdio.h>
-int main()
-{
-    int x = 10, y = 15;
-    if (x % 2 = y % 3)
-        printf("carpathians\n");
-    return 0;
-    }*/
+// #include <stdio.h>
+// int main()
+// {
+//     int x = 10, y = 15;
+//     if (x % 2 = y % 3)
+//         printf("carpathians\n");
+//     return 0;
+//     }
 
-/*#include <stdio.h>
+#include <stdio.h>
 int main()
 {
     int x = 30, y = 40;
@@ -167,17 +167,17 @@ int main()
     else if (x < y)
         printf("x is smaller than y\n");
     return 0;
-}*/
-
-#include <stdio.h>
-int main()
-{
-    int a, b;
-    scanf("%d%d", &a, &b);
-    if (a > b)
-        ; // semicolon error
-
-    printf("this is a game\n");
-    else printf("you have to play it\n");
-    return 0;
 }
+
+// #include <stdio.h>
+// int main()
+// {
+//     int a, b;
+//     scanf("%d%d", &a, &b);
+//     if (a > b)
+//         ; // semicolon error
+
+//     printf("this is a game\n");
+//     else printf("you have to play it\n");
+//     return 0;
+// }

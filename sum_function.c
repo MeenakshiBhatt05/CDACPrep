@@ -1,5 +1,6 @@
 #include <stdio.h>
 float sumofthreenumber(float, float, float);
+//float sumofthreenumber(float, float);
 int main()
 {
     float a, b, c, sum;

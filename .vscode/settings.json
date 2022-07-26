@@ -29,6 +29,8 @@
     "**/.vscode/**"
   ],
   "files.associations": {
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "extern.h": "c",
+    "extern_other.h": "c"
   }
 }

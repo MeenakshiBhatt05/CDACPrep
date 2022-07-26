@@ -4,6 +4,7 @@ static int a = 90;
 void display();
 void aj();
 
+#define EXTERN
 // int main()
 // {
 //     static int a=1;
@@ -16,14 +17,13 @@ void aj();
 
 void display()
 {
-    //extern int a;
+    // extern int a;
     printf("m2=%d\n", a);
     aj();
 }
 
-void aj(){
-    //extern  int a;
+void aj()
+{
+    // extern  int a;
     printf("m2=%d\n", a);
 }
-
-
